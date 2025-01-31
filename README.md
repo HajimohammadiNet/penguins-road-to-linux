@@ -67,7 +67,7 @@ For major changes or feature requests, please open an issue to start a discussio
 
 
 ## License
-All written content in this repository is released under the Creative Commons . This means you’re free to share and adapt the materials, as long as you give proper credit to the authors.
+All written content in this repository is released under the Creative Commons Zero v1.0 Universal. This means you’re free to share and adapt the materials, as long as you give proper credit to the authors.
 
 ## Feedback and Support
   - Issues: If you notice any problem, feel free to report it via the Issues tab.
